@@ -1,0 +1,23 @@
+{
+  "name": "mcalendar",
+  "version": "0.0.1",
+  "main": "calendar.js",
+  "keywords": [
+    "calendar",
+    "js"
+  ],
+  "authors": [
+    "Viswanathan Gurusamy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mcalendar": "*"
+  }
+}
