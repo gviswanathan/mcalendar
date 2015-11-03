@@ -1,14 +1,32 @@
 {
   "name": "mcalendar",
+  "main": "calendar.js",
+  "keywords": [
+    "calendar",
+    "js"
+  ],
+  "authors": [
+    "Viswanathan Gurusamy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mcalendar": "*"
+  },
   "homepage": "https://github.com/gviswanathan/mcalendar",
-  "_release": "25166a8077",
+  "_release": "0ead11c323",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "25166a8077e1abdbea0c84d4379aeee55d781ac9"
+    "commit": "0ead11c323be1bbae036e48ada87a7d4548e9361"
   },
   "_source": "git://github.com/gviswanathan/mcalendar.git",
   "_target": "*",
-  "_originalSource": "mcalendar",
-  "_direct": true
+  "_originalSource": "mcalendar"
 }

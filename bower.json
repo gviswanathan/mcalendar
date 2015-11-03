@@ -18,6 +18,8 @@
     "tests"
   ],
   "dependencies": {
-    "mcalendar": "*"
+    "jquery": "1.9.1 - 2",
+    "bootstrap": "~3.3.5",
+    "moment": "~2.10.6"
   }
 }
