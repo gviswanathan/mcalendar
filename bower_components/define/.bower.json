@@ -1,0 +1,15 @@
+{
+  "name": "define",
+  "homepage": "https://github.com/pfraces/define",
+  "version": "0.8.0",
+  "_release": "0.8.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.8.0",
+    "commit": "db6faba33884eab14a8628311537a5e1d7b329fc"
+  },
+  "_source": "git://github.com/pfraces/define.git",
+  "_target": "~0.8.0",
+  "_originalSource": "define",
+  "_direct": true
+}
